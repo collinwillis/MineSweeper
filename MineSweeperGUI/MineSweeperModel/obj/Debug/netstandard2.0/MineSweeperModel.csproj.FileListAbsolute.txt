@@ -1,0 +1,26 @@
+C:\Users\Collin Willis\source\repos\MineSweeper\MineSweeperModel\bin\Debug\netstandard2.0\MineSweeperModel.deps.json
+C:\Users\Collin Willis\source\repos\MineSweeper\MineSweeperModel\bin\Debug\netstandard2.0\MineSweeperModel.dll
+C:\Users\Collin Willis\source\repos\MineSweeper\MineSweeperModel\bin\Debug\netstandard2.0\MineSweeperModel.pdb
+C:\Users\Collin Willis\source\repos\MineSweeper\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.csprojAssemblyReference.cache
+C:\Users\Collin Willis\source\repos\MineSweeper\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.csproj.CoreCompileInputs.cache
+C:\Users\Collin Willis\source\repos\MineSweeper\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.AssemblyInfoInputs.cache
+C:\Users\Collin Willis\source\repos\MineSweeper\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.AssemblyInfo.cs
+C:\Users\Collin Willis\source\repos\MineSweeper\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.dll
+C:\Users\Collin Willis\source\repos\MineSweeper\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.pdb
+C:\Users\Collin Willis\source\repos\MineSweeperGUI\MineSweeperModel\bin\Debug\netstandard2.0\MineSweeperModel.deps.json
+C:\Users\Collin Willis\source\repos\MineSweeperGUI\MineSweeperModel\bin\Debug\netstandard2.0\MineSweeperModel.dll
+C:\Users\Collin Willis\source\repos\MineSweeperGUI\MineSweeperModel\bin\Debug\netstandard2.0\MineSweeperModel.pdb
+C:\Users\Collin Willis\source\repos\MineSweeperGUI\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.csprojAssemblyReference.cache
+C:\Users\Collin Willis\source\repos\MineSweeperGUI\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.csproj.CoreCompileInputs.cache
+C:\Users\Collin Willis\source\repos\MineSweeperGUI\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.AssemblyInfoInputs.cache
+C:\Users\Collin Willis\source\repos\MineSweeperGUI\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.AssemblyInfo.cs
+C:\Users\Collin Willis\source\repos\MineSweeperGUI\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.dll
+C:\Users\Collin Willis\source\repos\MineSweeperGUI\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.pdb
+C:\Users\Collin\Dropbox\GCU\Year 2\Fall 2019\CST-227\Milestone 7\MineSweeperGUI\MineSweeperModel\bin\Debug\netstandard2.0\MineSweeperModel.deps.json
+C:\Users\Collin\Dropbox\GCU\Year 2\Fall 2019\CST-227\Milestone 7\MineSweeperGUI\MineSweeperModel\bin\Debug\netstandard2.0\MineSweeperModel.dll
+C:\Users\Collin\Dropbox\GCU\Year 2\Fall 2019\CST-227\Milestone 7\MineSweeperGUI\MineSweeperModel\bin\Debug\netstandard2.0\MineSweeperModel.pdb
+C:\Users\Collin\Dropbox\GCU\Year 2\Fall 2019\CST-227\Milestone 7\MineSweeperGUI\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.csprojAssemblyReference.cache
+C:\Users\Collin\Dropbox\GCU\Year 2\Fall 2019\CST-227\Milestone 7\MineSweeperGUI\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.AssemblyInfoInputs.cache
+C:\Users\Collin\Dropbox\GCU\Year 2\Fall 2019\CST-227\Milestone 7\MineSweeperGUI\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.AssemblyInfo.cs
+C:\Users\Collin\Dropbox\GCU\Year 2\Fall 2019\CST-227\Milestone 7\MineSweeperGUI\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.dll
+C:\Users\Collin\Dropbox\GCU\Year 2\Fall 2019\CST-227\Milestone 7\MineSweeperGUI\MineSweeperModel\obj\Debug\netstandard2.0\MineSweeperModel.pdb
